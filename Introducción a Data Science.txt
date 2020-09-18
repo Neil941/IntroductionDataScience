@@ -14,6 +14,7 @@ install_course_github("ifunam", "programacion-estadistica-r")
 
 library(swirl)
 
+
 select_language()
 #1: chinese_simplified
 #2: dutch
